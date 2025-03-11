@@ -1,0 +1,7 @@
+BaseUrl, RelUrl, FileName
+https://blobstorageretailsdata.blob.core.windows.net/,rawretaildata/categories.csv,categories.csv
+https://blobstorageretailsdata.blob.core.windows.net/,rawretaildata/customers.csv,customers.csv
+https://blobstorageretailsdata.blob.core.windows.net/,rawretaildata/departments.csv,departments.csv
+https://blobstorageretailsdata.blob.core.windows.net/,rawretaildata/order_items.csv,order_items.csv
+https://blobstorageretailsdata.blob.core.windows.net/,rawretaildata/orders.csv,orders.csv
+https://blobstorageretailsdata.blob.core.windows.net/,rawretaildata/products.csv,products.csv
